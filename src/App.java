@@ -4,7 +4,7 @@
 * Copyright: 2021, Bán Cintia
 * Group: Szoft II N
 * Date: 2021-09-06
-* Github: https://github.com/janos/
+* Github: https://github.com/bncinti/
 * Licenc: GNU GPL
 */
 
